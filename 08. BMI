@@ -1,0 +1,4 @@
+weight= 49.4
+height=1.6
+bmi=weight/(height**2)
+print(bmi)
