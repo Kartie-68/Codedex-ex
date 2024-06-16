@@ -1,0 +1,7 @@
+#codedex 💖
+#10.Currency
+p=int(input ('What do you have left in pesos?'))
+s=int(input ('What do you have left in soles?'))
+r=int(input ('What do you have left in reais?'))
+total=p*0.00024+s*0.27+r*0.19
+print(total)
